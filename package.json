@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^16.1.1",
+    "contentful": "^10.4.2",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
